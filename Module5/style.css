@@ -1,0 +1,41 @@
+body {
+  background-color: white;
+}
+.redFont {
+    color: red;
+  }
+.blueFont {
+    color: blue;
+  }
+.greenFont {
+    color: green;
+  }
+.largeFont {
+    font-size: 24px;
+}
+.tinyFont {
+    font-size: 8px;
+}
+.centered {
+    text-align: center;
+}
+.boldFont {
+    font-weight: bold;
+}
+.cursive {
+    font-family: cursive;
+}
+.comboFont {
+    color: orange;
+    font-weight: bold;
+    font-size: 24px;
+}
+.styledFont {
+    color: green;
+    font-size: 18px;
+}
+#styledImage {
+    border-style: solid;
+    border-color: orange;
+    border-width: thick;
+}
